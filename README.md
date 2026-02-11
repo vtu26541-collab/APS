@@ -4,11 +4,13 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26541-collab/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/vtu26541-collab/APS/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/vtu26541-collab/APS/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26541-collab/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/vtu26541-collab/APS/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu26541-collab/APS/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/vtu26541-collab/APS/tree/master/0933-number-of-recent-calls) |
@@ -83,4 +85,8 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu26541-collab/APS/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26541-collab/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Stack
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu26541-collab/APS/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
