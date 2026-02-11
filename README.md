@@ -29,6 +29,7 @@
 | [0735-asteroid-collision](https://github.com/vtu26541-collab/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu26541-collab/APS/tree/master/0946-validate-stack-sequences) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26541-collab/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu26541-collab/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/vtu26541-collab/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/vtu26541-collab/APS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu26541-collab/APS/tree/master/0946-validate-stack-sequences) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu26541-collab/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Simulation
 |  |
 | ------- |
@@ -105,4 +107,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vtu26541-collab/APS/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu26541-collab/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
