@@ -71,12 +71,14 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26541-collab/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/vtu26541-collab/APS/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26541-collab/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu26541-collab/APS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26541-collab/APS/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/vtu26541-collab/APS/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/vtu26541-collab/APS/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26541-collab/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -129,10 +131,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vtu26541-collab/APS/tree/master/0547-number-of-provinces) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26541-collab/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/vtu26541-collab/APS/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/vtu26541-collab/APS/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu26541-collab/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
