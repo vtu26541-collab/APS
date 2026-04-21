@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26541-collab/APS/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/vtu26541-collab/APS/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/vtu26541-collab/APS/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/vtu26541-collab/APS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vtu26541-collab/APS/tree/master/0200-number-of-islands) |
@@ -248,6 +249,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/vtu26541-collab/APS/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/vtu26541-collab/APS/tree/master/0190-reverse-bits) |
 | [1763-longest-nice-substring](https://github.com/vtu26541-collab/APS/tree/master/1763-longest-nice-substring) |
 ## Binary Search
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vtu26541-collab/APS/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/vtu26541-collab/APS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
