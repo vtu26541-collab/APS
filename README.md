@@ -43,6 +43,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/vtu26541-collab/APS/tree/master/0202-happy-number) |
 | [0621-task-scheduler](https://github.com/vtu26541-collab/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu26541-collab/APS/tree/master/0721-accounts-merge) |
 | [0997-find-the-town-judge](https://github.com/vtu26541-collab/APS/tree/master/0997-find-the-town-judge) |
@@ -191,4 +192,12 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/vtu26541-collab/APS/tree/master/0542-01-matrix) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vtu26541-collab/APS/tree/master/0202-happy-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vtu26541-collab/APS/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
