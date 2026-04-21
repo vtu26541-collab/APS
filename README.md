@@ -27,6 +27,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26541-collab/APS/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/vtu26541-collab/APS/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/vtu26541-collab/APS/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vtu26541-collab/APS/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/vtu26541-collab/APS/tree/master/0239-sliding-window-maximum) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/vtu26541-collab/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vtu26541-collab/APS/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vtu26541-collab/APS/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/vtu26541-collab/APS/tree/master/0542-01-matrix) |
 ## Math
 |  |
