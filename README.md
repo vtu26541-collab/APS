@@ -289,5 +289,6 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/vtu26541-collab/APS/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/vtu26541-collab/APS/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/vtu26541-collab/APS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
