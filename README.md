@@ -53,6 +53,7 @@
 | [0721-accounts-merge](https://github.com/vtu26541-collab/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu26541-collab/APS/tree/master/0929-unique-email-addresses) |
 | [0997-find-the-town-judge](https://github.com/vtu26541-collab/APS/tree/master/0997-find-the-town-judge) |
+| [1763-longest-nice-substring](https://github.com/vtu26541-collab/APS/tree/master/1763-longest-nice-substring) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu26541-collab/APS/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu26541-collab/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1763-longest-nice-substring](https://github.com/vtu26541-collab/APS/tree/master/1763-longest-nice-substring) |
 ## Ordered Set
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | [0721-accounts-merge](https://github.com/vtu26541-collab/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/vtu26541-collab/APS/tree/master/0929-unique-email-addresses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/vtu26541-collab/APS/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1763-longest-nice-substring](https://github.com/vtu26541-collab/APS/tree/master/1763-longest-nice-substring) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -216,8 +219,10 @@
 | ------- |
 | [0169-majority-element](https://github.com/vtu26541-collab/APS/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/vtu26541-collab/APS/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/vtu26541-collab/APS/tree/master/1763-longest-nice-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/vtu26541-collab/APS/tree/master/0190-reverse-bits) |
+| [1763-longest-nice-substring](https://github.com/vtu26541-collab/APS/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
