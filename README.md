@@ -68,11 +68,13 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26541-collab/APS/tree/master/0199-binary-tree-right-side-view) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu26541-collab/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vtu26541-collab/APS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vtu26541-collab/APS/tree/master/0199-binary-tree-right-side-view) |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu26541-collab/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -120,4 +122,12 @@
 | [0739-daily-temperatures](https://github.com/vtu26541-collab/APS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/vtu26541-collab/APS/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu26541-collab/APS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu26541-collab/APS/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/vtu26541-collab/APS/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
