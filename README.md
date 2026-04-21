@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26541-collab/APS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vtu26541-collab/APS/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/vtu26541-collab/APS/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/vtu26541-collab/APS/tree/master/0239-sliding-window-maximum) |
 | [0542-01-matrix](https://github.com/vtu26541-collab/APS/tree/master/0542-01-matrix) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26541-collab/APS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vtu26541-collab/APS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/vtu26541-collab/APS/tree/master/0202-happy-number) |
 | [0621-task-scheduler](https://github.com/vtu26541-collab/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu26541-collab/APS/tree/master/0721-accounts-merge) |
@@ -59,6 +61,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/vtu26541-collab/APS/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/vtu26541-collab/APS/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/vtu26541-collab/APS/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/vtu26541-collab/APS/tree/master/0721-accounts-merge) |
 ## Heap (Priority Queue)
@@ -70,6 +73,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vtu26541-collab/APS/tree/master/0169-majority-element) |
 | [0621-task-scheduler](https://github.com/vtu26541-collab/APS/tree/master/0621-task-scheduler) |
 ## Linked List
 |  |
@@ -207,4 +211,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/vtu26541-collab/APS/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vtu26541-collab/APS/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
